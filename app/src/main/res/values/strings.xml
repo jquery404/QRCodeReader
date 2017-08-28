@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">QR Code Reader</string>
+
+    <!-- FORM FIELDS NAME -->
+    <string name="hint_name">Nombres</string>
+    <string name="hint_nickname_parent">Apellido Paterno</string>
+    <string name="hint_nickname_married">Apellido Materno</string>
+    <string name="hint_dni">DNI</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_phone">Celular</string>
+    <string name="hint_shift">Selecciona tu turno</string>
+    <string name="hint_year">¿En qué año estás?</string>
+    <string name="hint_career">Carrera de Interés</string>
+    <string name="hint_qrcode">QR Code</string>
+    <string name="hint_submit">Terminar</string>
+    <string name="not_allow_empty">Field cannot be empty</string>
+    <string name="default_spinner_value">------</string>
+
 </resources>

@@ -29,4 +29,13 @@
         <item name="android:layout_marginBottom">20dp</item>
     </style>
 
+
+    <style name="miniButtonStyle">
+        <item name="android:background">#FF0000</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
 </resources>

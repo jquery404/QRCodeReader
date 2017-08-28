@@ -25,6 +25,7 @@ ext {
     supportLibVersion = '25.4.0'
     butterknifeVersion = '8.7.0'
     firebaseVersion = '11.0.2'
+    dbflowVersion = '4.0.2'
 }
 
 dependencies {
@@ -43,11 +44,17 @@ dependencies {
     compile "com.google.firebase:firebase-crash:${firebaseVersion}"
     compile "com.google.firebase:firebase-core:${firebaseVersion}"
 
-    compile 'com.journeyapps:zxing-android-embedded:3.5.0'
+    // db
+    compile "com.github.Raizlabs.DBFlow:dbflow-core:${dbflowVersion}"
+    compile "com.github.Raizlabs.DBFlow:dbflow:${dbflowVersion}"
+    annotationProcessor "com.github.Raizlabs.DBFlow:dbflow-processor:${dbflowVersion}"
+
 
     // admob
     compile 'com.google.android.gms:play-services-ads:11.0.4'
 
+    // qr
+    compile 'com.journeyapps:zxing-android-embedded:3.5.0'
     compile 'com.google.android.gms:play-services-vision:11.0.4'
 
 

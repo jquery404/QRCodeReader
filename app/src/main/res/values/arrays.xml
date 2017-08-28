@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opt_year">
+        <item>------</item>
+        <item>3ero</item>
+        <item>4to</item>
+        <item>5to</item>
+        <item>Ya terminé el colegio</item>
+    </string-array>
+
+    <string-array name="opt_shift">
+        <item>------</item>
+        <item>1er turno - 10:00 AM a 12:00 PM</item>
+        <item>2do turno - 12:00 PM a 02:00 PM</item>
+        <item>3er turno - 02:00 PM a 04:00 PM</item>
+        <item>4to turno - 04:00 PM a 06:00 PM</item>
+    </string-array>
+
+    <string-array name="opt_career">
+        <item>------</item>
+        <item>COMUNICACIÓN Y MARKETING</item>
+        <item>COMUNICACIÓN AUDIOVISUAL Y MEDIOS</item>
+        <item>COMUNICACIÓN Y PUBLICIDAD</item>
+        <item>COMUNICACIÓN Y PERIODISMO</item>
+        <item>COMUNICACIÓN E IMAGEN EMPRESARIAL</item>
+        <item>ADMINISTRACIÓN Y AGRONEGOCIOS</item>
+        <item>ADMINISTRACIÓN Y FINANZAS</item>
+        <item>ADMINISTRACIÓN Y MARKETING</item>
+        <item>ADMINISTRACIÓN Y NEGOCIOS DEL DEPORTE</item>
+        <item>ADMINISTRACIÓN Y NEGOCIOS INTERNACIONALES</item>
+        <item>ADMINISTRACIÓN Y RECURSOS HUMANOS</item>
+        <item>CONTABILIDAD Y ADMINISTRACIÓN</item>
+        <item>INGENIERÍA CIVIL</item>
+        <item>INGENIERÍA DE GESTIÓN EMPRESARIAL</item>
+        <item>INGENIERÍA DE GESTIÓN MINERA</item>
+        <item>INGENIERÍA DE SISTEMAS DE INFORMACIÓN</item>
+        <item>INGENIERÍA DE SOFTWARE</item>
+        <item>INGENIERÍA ELECTRÓNICA</item>
+        <item>INGENIERÍA INDUSTRIAL</item>
+        <item>INGENIERÍA MECATRÓNICA</item>
+        <item>INGENIERÍA DE GESTIÓN AMBIENTAL</item>
+        <item>CIENCIAS DE LA COMPUTACIÓN</item>
+        <item>MEDICINA</item>
+        <item>NUTRICIÓN Y DIETÉTICA</item>
+        <item>ODONTOLOGÍA</item>
+        <item>TERAPIA FÍSICA</item>
+        <item>ECONOMÍA FINANZAS</item>
+        <item>ECONOMÍA Y NEGOCIOS INTERNACIONALES</item>
+        <item>ECONOMÍA GERENCIAL</item>
+        <item>MÚSICA</item>
+        <item>ARTES ESCÉNICAS</item>
+        <item>HOTELERÍA Y ADMINISTRACIÓN </item>
+        <item>TURISMO Y ADMINISTRACIÓN </item>
+        <item>GASTRONOMÍA Y GESTIÓN CULINARIA </item>
+        <item>DISEÑO GRÁFICO</item>
+        <item>DISEÑO DE INTERIORES</item>
+        <item>DISEÑO DE MODAS</item>
+        <item>EDUCACIÓN Y GESTIÓN DEL APRENDIZAJE </item>
+        <item>DERECHO</item>
+        <item>ARQUITECTURA</item>
+        <item>PSICOLOGÍA</item>
+        <item>TRADUCCIÓN</item>
+        <item>INTERNACIONALIDAD</item>
+        <item>ORIENTACIÓN VOCACIONAL</item>
+    </string-array>
+</resources>

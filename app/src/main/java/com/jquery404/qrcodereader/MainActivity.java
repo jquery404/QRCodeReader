@@ -1,6 +1,7 @@
 package com.jquery404.qrcodereader;
 
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -40,14 +41,17 @@ public class MainActivity extends BaseCompatActivity {
         ButterKnife.bind(this);
 
         qrScan = new IntentIntegrator(this);
-
-
     }
 
 
     @OnClick(R.id.buttonScan)
     public void onClickScan() {
         qrScan.initiateScan();
+    }
+
+    @OnClick(R.id.buttonRegister)
+    public void onClickRegister() {
+        RegistrationActivity.start(this);
     }
 
     @Override
@@ -63,6 +67,13 @@ public class MainActivity extends BaseCompatActivity {
             super.onActivityResult(requestCode, resultCode, data);
         }
 
+    }
+
+
+    public static void start(Context context) {
+        Intent launchIntent = new Intent(context, MainActivity.class);
+        launchIntent.putExtra("flag", context.getClass().getSimpleName());
+        context.startActivity(launchIntent);
     }
 
 

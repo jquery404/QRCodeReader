@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    android:id="@+id/card_view"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    app:cardPreventCornerOverlap="false"
+    app:cardUseCompatPadding="true"
+    card_view:cardBackgroundColor="@android:color/transparent"
+    card_view:cardElevation="0dp"
+    card_view:contentPadding="-4dp">
+
+    <RelativeLayout
+        android:id="@+id/card_wrapper"
+        android:layout_width="match_parent"
+        android:background="#FFFFFF"
+        android:layout_height="55dp"
+        android:layout_margin="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp">
+
+            <TextView
+                android:textColor="#000"
+                android:id="@+id/song_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="60dp"
+                android:layout_marginRight="60dp"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:scrollHorizontally="true"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                tools:text="Song title"/>
+
+            <TextView
+                android:id="@+id/dni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="60dp"
+                android:layout_marginRight="60dp"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:scrollHorizontally="true"
+                android:textSize="12sp"
+                tools:text="unknown"/>
+
+            <TextView
+                android:id="@+id/song_artist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="60dp"
+                android:layout_marginRight="60dp"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:scrollHorizontally="true"
+                android:textSize="12sp"
+                tools:text="unknown"/>
+
+        </LinearLayout>
+
+
+        <Button
+            style="@style/miniButtonStyle"
+            android:id="@+id/btn_push"
+            android:layout_width="50dp"
+            android:textColor="#FFF"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textSize="12sp"
+            android:text="Push"/>
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
