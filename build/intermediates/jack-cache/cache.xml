@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fadli/.android/build-cache/9eb573d5fd28558ce3534d6acfedd7f68c5c330d/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-7de855894d85e9b97ce9d87185c33593c83ea0c5.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/28375185c845260fae7c6ddb0bf3196727a4078b/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-22a8dde2cf01ec976fc2e7983776e7eb846a34cd.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/f39c65e7fe1781787c3cda2acb48eca4a987b739/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-3be777b749e161ae7ef37273519c012cf682606e.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/894b4bebcdd66f3d6280de7c7be5fd58f31fc75b/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-9ca3f64f518d3aa5206541f6b3d8da863270c46c.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/d3850fdd11e0c33340d6179bca79fc7b2c8eb946/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-fc91be223c48266cf8952c5f33cc970f0c72e8a4.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/d2c951920a1d9b4df1029b8418cb59bfd649bf00/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-aff804b91fe287eb8d071b12038c9b19411d7dd0.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/469b0b15ebbd2e50688195635263822379ae1fa4/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-79d21b658abec05f15c0536c82457971e57d4d60.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/3e299bc770e36ca1030a3391de7ac607d33f150d/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-7c8bfd10ebe3f9ba06161c93b56652a4bb725263.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/2a91e9a0f48da3fc3c55a10ee2e413558fc21b9d/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-55260b3d4fca8afb17eebe4cfe77d3f941d76686.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/cfae898bcd169f04a1482b8e335d9ab01e5f40fb/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-899dcee0b8121424bac60549b75795c76b81bdd8.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/7d202b5442e5bb07ec564b846ac1f1d54d9849df/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="870ce856ec2f776985b61dbbf0df0db9fe6df78b">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-f2773ae131651ff481c618a3c737309b3700c28c.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/082829b72ad510dd415e855bed03d4cefcc07faf/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-7449ba26ac916c9abe241368b8aae0b189674af1.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/5a5a20eb36553526774c8d7a0e3c783327585cdf/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-e4fe2b63604b2e73b5c00b5acc512518e6ac89ee.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/da503703e87c24f3d2b992362c68ae8b922898d9/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-04b362cb9e6e9df88f62182829e123418c75c506.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/9102e34e47de2f67de5314c99b86b5925ea7a2bb/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-769a0f4cbcc8d80a6de71c603f4f675ec59cb5dd.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/7327b4f1caf485ac92460cc4d3e68a3d9e49afd6/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-0a00c674aa73be87bf0d71597e6a873d27e65900.jar" />
+    </item>
+    <item
+        jar="/mfad/Library/Android/SDK/platforms/android-25/android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/android-e8089c03016e168b21cb7c3c353483ee8555a9a0.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/bc77edf45f545f7e4bb12d4597e47c2382248df4/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-95484abeb077a1ead1a90c3569c42f3832e24d6e.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/7570c9cd75bfe9a048b6eb42fb5403c01d62513b/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="77e3f210322743390ab44e667cc8988ba5d9433b">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-3f307990b9bf31f7750ef986def84c1946ab59f5.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/545c61ba977165a2356799bd99395635d3305345/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="ba90907329e4ed429307d39490927b456838bf08">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-f1b61a60d108b060bf3e0ba7a49359b37fbfb653.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/c880bb8a6bf2fd313aaa92b246fcadde345a11d0/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-548b52ef83bd41e4838a5adbd3f4cab89c959b51.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/c925e9be3f65f19e6b2048d651462290d8fa00f4/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-22692f44e81c5e03437631af3277fc7b73410ebe.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/99aedd5cb62fbedda4c18450a0c9dd3b726c82dd/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-35c762f26b41a1e4139abf62d37dda072352b3be.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/120184aad45e358dc7a08b19be8104d5c7696276/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-faa745fceb39f188c1adc5d0d7ebf55cc27719a3.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/574007694908035d45a1011fde10c02eb3586ce6/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="e73be64ef3e56ecc035bd298d274136e2ad66d20">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-91f78b2d1a9e2883f664a0db64d62589330e0026.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/bdf0d340f924935c19ddf5ef64b1f94714904938/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-15c49573c4a48043ece04ea0284c959a4a86a500.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/a9a4091b82a324be505b1a1d6e6f7a478fd5373f/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-867bc9ebe217c42fe73a1e821d9543219efb953a.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/faecd8b1b314aa47eba22a639fc71ee65569b772/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-e9fd5b3b066f36d0507a7bf6aa1f76c8e2961c40.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/5cbe2ff87aee3ca8cbd3a36bfb8a627024759ab2/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-c67df8c453dcb20bb4bd1fa29802ea19a5ac88d3.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/2d01d16b73c3c5e497cfacf47f3e173eaa09330d/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-536d521ebfed76405c1edfa0dc5cfa0037addce9.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        revision="25.0.3"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/core-3.3.0-adc3a74683995345638bd62c9a6b0389be9bbd95.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/056808bdc3e84a00fb3f07b088d9aa704b0c7c30/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="bb5dc3c50e87c0d47a5275d21760ebe1b9c7bcf0">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-a13c01fb6141f097aa9cac128a6a27fd522fd4f7.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        revision="25.0.3"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/support-annotations-25.4.0-67f691b1dffa8a3483d2f396b25a1bfc28357a59.jar" />
+    </item>
+    <item
+        jar="/mfad/Library/Android/SDK/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/org.apache.http.legacy-98c27627117bed2544e039ee27b95e0e21878d74.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.7.0/2637055420a2da406e3ea9920c2ff4aafd38c970/butterknife-annotations-8.7.0.jar"
+        revision="25.0.3"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/butterknife-annotations-8.7.0-1fce43aa81dc23761ca6abbb92c131e80f483b35.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/67e4b567d4369db36b8573a006af9d8f28f6a45e/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-e5bb9c31888e39d8fe3a1c88cb62933e2ec29086.jar" />
+    </item>
+    <item
+        jar="/Users/fadli/.android/build-cache/c1c80393a16fcbc99e95b2837d9c41621fb1daba/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/fadli/Desktop/qrcodereader/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-d22213e2fd1556d542fa8c148d97e109d5f71179.jar" />
+    </item>
+
+</items>

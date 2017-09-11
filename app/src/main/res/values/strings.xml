@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">QR Code Reader</string>
+    <string name="app_name_style"><b>QR Code</b>\nReader</string>
+
+    <string name="activity_about_text">The fastest, most user-friendly and effective  QR code scanner available in Google Play Store. If your Android came with a built-in scanner, this would be it.\n\n\n\n\u00A9 2017 jQuery404. All rights reserved.</string>
+
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-7866726697767847/7299306410</string>
+    <string name="interstitial_full_screen">ca-app-pub-7866726697767847/6478067389</string>
 </resources>

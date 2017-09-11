@@ -12,6 +12,9 @@ android {
         versionName "1.1." + versionCode
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
+        jackOptions {
+            enabled true
+        }
     }
     buildTypes {
         release {
@@ -25,6 +28,7 @@ ext {
     supportLibVersion = '25.4.0'
     butterknifeVersion = '8.7.0'
     firebaseVersion = '11.0.2'
+    playServiceVersion = '11.0.4'
 }
 
 dependencies {
@@ -43,15 +47,17 @@ dependencies {
     compile "com.google.firebase:firebase-crash:${firebaseVersion}"
     compile "com.google.firebase:firebase-core:${firebaseVersion}"
 
+    // zxing
     compile 'com.journeyapps:zxing-android-embedded:3.5.0'
 
+    // permission
+    compile 'pub.devrel:easypermissions:0.4.0'
+
+    // arc
+    compile 'com.ogaclejapan.arclayout:library:1.1.0@aar'
+
     // admob
-    compile 'com.google.android.gms:play-services-ads:11.0.4'
-
-    compile 'com.google.android.gms:play-services-vision:11.0.4'
-
-
-
+    compile "com.google.android.gms:play-services-ads:${playServiceVersion}"
 
     testCompile 'junit:junit:4.12'
 }
